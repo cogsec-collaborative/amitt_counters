@@ -1,10 +1,33 @@
-# Tactic TA04 develop networks counters
+# Tactic TA04 Develop Networks counters
 
 ## by action
 
 
 ### D2 Deny
 * C00152: “name and shame” (needs nan)
+* C00056: Get off social media (needs nan)
+* C00055: Empower existing regulators to govern social media (needs government:policymakers,government,platform_admin)
+* C00174: Free and Fair Press (needs nan)
+* C00049: Influence literacy training (needs educators)
+* C00050: Anti-elicitation training (needs educators)
+* C00051: Phishing prevention education etc (needs educators)
+* C00057: Privacy standards (needs nan)
+* C00059: Verification of project before posting (counters funding campaigns) (needs nan)
+* C00058: Report crowdfunder as violator (needs nan)
+* C00157: Build alternative news sources (needs nan)
+
+### D3 Disrupt
+* C00061: Innoculating at language (needs nan)
+* C00060: Enhanced legal enforcement against for-profit follower/engagement factories (needs government:policymakers)
+* C00162: collect data/map constellations of Russian“civil society”. Unravel/target the Potemkin villages (needs nan)
+
+### D4 Degrade
+* C00053: Delete old accounts / Remove unused social media accounts (needs platform_admin,platform_admin:socialmedia,public:account_owners)
+* C00054: Media literacy training.  (needs educators,libraries,schools,DHS,NGO,platform_outreach,media,community_groups,religious_organisations)
+* C00052: Infiltrate platforms (needs activists)
+
+### D6 Destroy
+* C00062: Free open library sources worldwide (needs nan)
 
 ## by technique
 

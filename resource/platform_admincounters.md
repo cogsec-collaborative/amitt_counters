@@ -8,8 +8,6 @@
 * C00098: Revocation of "verified" (needs platform_admin)
 * C00055: Empower existing regulators to govern social media (needs government:policymakers,government,platform_admin)
 * C00122: Content moderation. Censorship? (needs platform_admin)
-
-### D2 deny
 * C00217: Registries alert when large batches of newsy URLs get registered together (needs platform_admin)
 * C00218: Censorship (needs platform_admin)
 

@@ -18,8 +18,6 @@
 * C00063: Ban political microtargeting (needs government:policymakers)
 * C00076: Prohibit images in political discourse channels (needs nan)
 * C00182: malware detection/quarantine/deletion (needs infosec)
-
-### D2 deny
 * C00218: Censorship (needs platform_admin)
 
 ### D3 Disrupt

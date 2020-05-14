@@ -1,10 +1,32 @@
-# Tactic TA09 exposure counters
+# Tactic TA09 Exposure counters
 
 ## by action
 
 
-### D3 disrupt
+### D2 Deny
+* C00122: Content moderation. Censorship? (needs platform_admin)
+* C00182: malware detection/quarantine/deletion (needs infosec)
+* C00218: Censorship (needs platform_admin)
+
+### D3 Disrupt
+* C00169: develop a creative content hub (needs nan)
+* C00211: Use humorous counter-narratives (needs nan)
+* C00126: Social media amber alert (needs nan)
+* C00151: “fight in the light” (needs nan)
+* C00128: Create friction by marking content with ridicule or other "decelerants" (needs influencers:trusted_authority)
+* C00178: Fill information voids with non-disinformation content (needs nan)
+* C00194: Provide an alternative to Russian information by expanding and improving local content. (needs nan)
+* C00125: Prepare the population with pre-announcements (needs nan)
+* C00190: open engagement with civil society (needs public)
+* C00212: build public resilence by making civil society more vibrant (needs educators,government)
+* C00123: Bot control (needs nan)
+* C00124: Don't feed the trolls (needs public,media)
+* C00156: Better tell the U.S., NATO, and EU story. (needs government,military)
 * C00200: Respected figure (influencer) disavows misinfo (needs influencers)
+
+### D4 Degrade
+* C00184: Media exposure (needs nan)
+* C00158: Use training to build the resilience of at-risk populations. (needs educators,media)
 
 ## by technique
 

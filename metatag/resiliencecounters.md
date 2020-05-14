@@ -12,9 +12,7 @@
 * C00051: Phishing prevention education etc (needs educators)
 * C00073: Educate on how to handle info pollution. Push out targeted education on why it's pollution (needs educators)
 * C00204: Strengthen local media (needs media)
-
-### D2 deny
-* C00160: find and train influencers (needs data scientist,influencers)
+* C00160: find and train influencers (needs data_scientist,influencers)
 * C00210: Use encrypted apps for confidential communication (needs nan)
 
 ### D3 Disrupt

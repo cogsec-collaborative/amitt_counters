@@ -3,9 +3,6 @@
 ## by action
 
 
-### D2 - Deny
-* C00165: Limit access to alterable documents (needs nan)
-
 ### D2 Deny
 * C00006: Charge for social media (needs platform_admin:socialmedia)
 * C00034: Create more friction at account creation (needs nan)
@@ -19,6 +16,7 @@
 * C00112: "Prove they are not an op!" (needs nan)
 * C00114: Don't engage with payloads (needs public)
 * C00122: Content moderation. Censorship? (needs platform_admin)
+* C00165: Limit access to alterable documents (needs nan)
 
 ### D3 Disrupt
 * C00044: Keep people from posting to social media immediately (needs platform_algorithms)
@@ -27,8 +25,6 @@
 * C00123: Bot control (needs nan)
 * C00124: Don't feed the trolls (needs public,media)
 * C00139: Weaponise youtube content matrices (needs nan)
-
-### D3 disrupt
 * C00203: Stop offering press credentials to propaganda outlets (needs government)
 
 ### D4 Degrade

@@ -13,7 +13,10 @@
 * C00073: Educate on how to handle info pollution. Push out targeted education on why it's pollution (needs educators)
 * C00075: normalise language (needs nan)
 * C00076: Prohibit images in political discourse channels (needs nan)
+* C00165: Limit access to alterable documents (needs nan)
+* C00167: Deploy Information and Narrative-Building in Service of Statecraft (needs nan)
 * C00202: Set data 'honeytraps' (needs nan)
+* C00210: Use encrypted apps for confidential communication (needs nan)
 
 ### D3 Disrupt
 * C00082: Ground truthing as automated response to pollution (needs nan)

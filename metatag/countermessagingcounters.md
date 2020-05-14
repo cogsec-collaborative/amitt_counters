@@ -16,8 +16,6 @@
 * C00017: Media campaign promoting in-group to out-group in person communication / activities (needs media)
 * C00042: Address truth contained in narratives (needs nan)
 * C00156: Better tell the U.S., NATO, and EU story. (needs government,military)
-
-### D3 disrupt
 * C00200: Respected figure (influencer) disavows misinfo (needs influencers)
 
 ### D4 Degrade

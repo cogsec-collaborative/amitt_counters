@@ -15,8 +15,6 @@
 ### D3 Disrupt
 * C00188: Newsroom/Journalist training to counter SEO influence (needs media,educators)
 * C00193: promotion of a “higher standard of journalism” (needs media,educators)
-
-### D3 disrupt
 * C00203: Stop offering press credentials to propaganda outlets (needs government)
 
 ### D4 Degrade
